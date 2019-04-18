@@ -1,29 +1,5 @@
-# game
+Hey! 
 
-## Project setup
-```
-npm install
-```
+I made this game as my first project using Vue.js, my intent was to further develop my JavaScript skills while making something fun, i didn't care much for how things looked and just wanted to get the maximum amount of experience with JS logic.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I hope you have fun with it.
