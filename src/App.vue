@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Amigo> </Amigo>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Amigo from './components/Amigo.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Amigo
   }
 }
 </script>
@@ -22,7 +21,10 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #f3f3f3;
+  text-shadow: 2px 2px black;
+  height: 1500px;
+  background-image: url('https://i.redd.it/xwvzch6jabwy.png');
+  background-size: cover;
 }
 </style>
